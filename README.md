@@ -5,13 +5,13 @@ after that run html file.
 
 instruction only for using virtual atm ui with ai mouse
 
-![Cursor](https://user-images.githubusercontent.com/56551899/235883286-568d8b9b-4782-4385-b42c-c390c9b764fb.png)
 
 For left click : Use thumb finger and index finger and distance between them less than 20 px.
 
 ![Leftclick](https://user-images.githubusercontent.com/56551899/235883203-58024056-d848-4748-b13e-59c431068f1e.png)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Other AI mouse functions:-
 
