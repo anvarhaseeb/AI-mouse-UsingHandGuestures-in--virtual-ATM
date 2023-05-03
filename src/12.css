@@ -1,0 +1,51 @@
+body{
+    background: rgb(36, 36, 224);
+}
+.s{
+  text-align: center;
+  background-color: aqua;
+  color:  rgb(38, 60, 231);
+}
+.sp{
+    
+    float: right;
+ 
+}
+.bt
+{
+    padding: 20px;
+    border-radius: 15px;
+    height:80px;
+    width:125px;
+    background-color: rgb(237, 237, 58);
+}
+
+.btn2
+{
+    padding: 10px;
+    border-radius: 15px;
+    height:80px;
+    width:80px;
+    background-color: rgb(255, 255, 255);
+}
+.btn3
+{
+    padding: 10px;
+    border-radius: 15px;
+    height:80px;
+    width:80px;
+    background-color: rgb(237, 70, 58);
+}
+
+
+.cntnr{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    
+}
+.text{
+    color: white;
+    font-size: 100px;
+    font-family: sans-serif;
+}
